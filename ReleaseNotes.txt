@@ -5,3 +5,7 @@ Release notes 2.3.9
 
 Release notes  2.4.0
 - Built with core 2.4.0 to address the burning bug
+
+Release notes  2.4.1
+- Built with core 2.4.1 Nimbus, The Halo
+- Major Block version upgrade(s)
