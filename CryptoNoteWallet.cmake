@@ -1,4 +1,4 @@
 set(CN_PROJECT_NAME "geemwallet")
 set(CN_CURRENCY_DISPLAY_NAME "Geem")
 set(CN_CURRENCY_TICKER "GEEM")
-set(CN_VERSION 2.4.1)
+set(CN_VERSION 2.4.2)

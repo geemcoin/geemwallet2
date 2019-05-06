@@ -87,7 +87,7 @@
          </sizepolicy>
         </property>
         <property name="text">
-         <string>Wallet will connect to local Geem daemon process on port 32348. In case of no local daemon running it will use an in-wallet embedded node implementation.</string>
+         <string>Wallet will connect to local Geem daemon process on port 2046. In case of no local daemon running it will use an in-wallet embedded node implementation.</string>
         </property>
         <property name="alignment">
          <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignTop</set>

@@ -9,3 +9,7 @@ Release notes  2.4.0
 Release notes  2.4.1
 - Built with core 2.4.1 Nimbus, The Halo
 - Major Block version upgrade(s)
+
+Release notes  2.4.2
+- Built with core 2.4.2 Kainaat, The Universe
+- Major Block version upgrade(s) to start at height 350000
